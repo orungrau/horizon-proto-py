@@ -1,2 +1,1 @@
-# horizon.py
-Horizon Protocol for Python
+# Horizon Protocol for Python
